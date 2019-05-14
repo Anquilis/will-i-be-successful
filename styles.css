@@ -1,0 +1,7 @@
+body{
+    background-image:linear-gradient(to right ,red,orange,yellow,blue,green,indigo,violet);
+}
+p{
+    font-size: 200px;
+    text-align: center;
+}
